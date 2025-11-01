@@ -1,0 +1,84 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void ARPlaceCube_Update_m1F3172574FC109F902655ACB7A4DE155BB21938E (void);
+extern void ARPlaceCube_PlaceObject_m004F9B593178681BF60B2AF1F0CEE2DD4DD7B7A3 (void);
+extern void ARPlaceCube_SetIsPlacingToFalseWithDelay_m2FC550892EA84197793A2C55106CF0C618D4E15C (void);
+extern void ARPlaceCube__ctor_m2D47204EA20B63752561BAA82C0FB3F75D6DA2AC (void);
+extern void U3CSetIsPlacingToFalseWithDelayU3Ed__5__ctor_m17FD009ABA043DFC5D9178F516F217C7D26ED106 (void);
+extern void U3CSetIsPlacingToFalseWithDelayU3Ed__5_System_IDisposable_Dispose_mF8CBE954F2D525BE4A5C109961F55FD1FBF38266 (void);
+extern void U3CSetIsPlacingToFalseWithDelayU3Ed__5_MoveNext_mEB02CC08BCE94E3107866D7BF589462F9C05C25D (void);
+extern void U3CSetIsPlacingToFalseWithDelayU3Ed__5_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mAD7264EF5E44FDC4B27F5F3A11BACC72D6197312 (void);
+extern void U3CSetIsPlacingToFalseWithDelayU3Ed__5_System_Collections_IEnumerator_Reset_mBEB225852FD1261E0B7B1D293D6289CA2EA9C9D2 (void);
+extern void U3CSetIsPlacingToFalseWithDelayU3Ed__5_System_Collections_IEnumerator_get_Current_mE5936F73635F76D688B6FA6F0E03E0C82617CB22 (void);
+extern void MeshToggler_Toggle_m94B8C6E770F4CFE139A38B2375C1627CA12ACB96 (void);
+extern void MeshToggler__ctor_m6506392051E3C5842B0484BDB486128E73EDDF71 (void);
+extern void Rotation_Controller_Update_mCB0C162D5092124291040F56707723B481B98C42 (void);
+extern void Rotation_Controller__ctor_m9DD8BF22D472C01D2C5EDA33183976E31B9FB61B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[16] = 
+{
+	ARPlaceCube_Update_m1F3172574FC109F902655ACB7A4DE155BB21938E,
+	ARPlaceCube_PlaceObject_m004F9B593178681BF60B2AF1F0CEE2DD4DD7B7A3,
+	ARPlaceCube_SetIsPlacingToFalseWithDelay_m2FC550892EA84197793A2C55106CF0C618D4E15C,
+	ARPlaceCube__ctor_m2D47204EA20B63752561BAA82C0FB3F75D6DA2AC,
+	U3CSetIsPlacingToFalseWithDelayU3Ed__5__ctor_m17FD009ABA043DFC5D9178F516F217C7D26ED106,
+	U3CSetIsPlacingToFalseWithDelayU3Ed__5_System_IDisposable_Dispose_mF8CBE954F2D525BE4A5C109961F55FD1FBF38266,
+	U3CSetIsPlacingToFalseWithDelayU3Ed__5_MoveNext_mEB02CC08BCE94E3107866D7BF589462F9C05C25D,
+	U3CSetIsPlacingToFalseWithDelayU3Ed__5_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mAD7264EF5E44FDC4B27F5F3A11BACC72D6197312,
+	U3CSetIsPlacingToFalseWithDelayU3Ed__5_System_Collections_IEnumerator_Reset_mBEB225852FD1261E0B7B1D293D6289CA2EA9C9D2,
+	U3CSetIsPlacingToFalseWithDelayU3Ed__5_System_Collections_IEnumerator_get_Current_mE5936F73635F76D688B6FA6F0E03E0C82617CB22,
+	MeshToggler_Toggle_m94B8C6E770F4CFE139A38B2375C1627CA12ACB96,
+	MeshToggler__ctor_m6506392051E3C5842B0484BDB486128E73EDDF71,
+	Rotation_Controller_Update_mCB0C162D5092124291040F56707723B481B98C42,
+	Rotation_Controller__ctor_m9DD8BF22D472C01D2C5EDA33183976E31B9FB61B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[16] = 
+{
+	10393,
+	8320,
+	10252,
+	10393,
+	8148,
+	10393,
+	10105,
+	10252,
+	10393,
+	10252,
+	10393,
+	10393,
+	10393,
+	10393,
+	15144,
+	10393,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	16,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
